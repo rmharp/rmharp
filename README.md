@@ -9,14 +9,11 @@
 </p>
 
 <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rmharp&count_private=true&show_icons=true&line_height=27&theme=tokyonight"/>
-      <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=rmharp&count_private=true&show_icons=true&line_height=27&theme=tokyonight"/>
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&layout=compact&langs_count=10&theme=tokyonight&hide=html,css">
-      <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&layout=compact&langs_count=10&theme=tokyonight&hide=html,css">
-    </picture>
+  ![Stats Dark](https://github-readme-stats.vercel.app/api?username=rmharp&count_private=true&show_icons=true&line_height=27&theme=tokyonight#gh-dark-mode-only)
+  ![Stats Light](https://github-readme-stats.vercel.app/api?username=rmharp&count_private=true&show_icons=true&line_height=27&theme=default#gh-light-mode-only)
+
+  ![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&layout=compact&langs_count=10&theme=tokyonight&hide=html,css#gh-dark-mode-only)
+  ![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&layout=compact&langs_count=10&theme=default&hide=html,css#gh-light-mode-only)
 </div>
 <br>
 <!-- Social icons section -->
