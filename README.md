@@ -11,7 +11,6 @@
 <div align="center">
 
   ![Stats Dark](https://github-readme-stats-kappa-blush-46.vercel.app/api?username=rmharp&count_private=true&show_icons=true&line_height=27&theme=tokyonight#gh-dark-mode-only)
-  
   ![Top Langs Dark](https://github-readme-stats-kappa-blush-46.vercel.app/api/top-langs/?username=rmharp&layout=compact&langs_count=10&theme=tokyonight&hide=html,css#gh-dark-mode-only)
 
 </div>
